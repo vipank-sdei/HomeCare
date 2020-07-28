@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mn/pYBrjvu+DOJ+yTFt+VFaYIQ2A1kb+9jkUqihY+EBXDAM1kQmBlz6VsutFA9ZEeq6127WpJWnwaxV+I0jh0g==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\HomeCare\\CoreAPI_MultiDB_Architecture\\BrightCareSolution\\BrightCare.Persistence.Interface\\BrightCare.Persistence.Interface.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\vaibhavb\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "D:\\Users\\vaibhavb\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
